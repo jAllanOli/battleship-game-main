@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Live site]()
+- [Live site](https://jallanoli.github.io/battleship-game-main/)
 
 ## My process
 
